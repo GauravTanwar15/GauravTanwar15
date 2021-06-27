@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [gauravtanwar.netlify.app](gauravtanwar.netlify.app)
+- 👨‍💻 All of my projects are available at [gauravtanwar.netlify.app](https://gauravtanwar.netlify.app)
 
 - 📫 How to reach me **gauravatwork15@gmail.com**
 
