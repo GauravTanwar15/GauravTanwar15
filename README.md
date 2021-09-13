@@ -1,5 +1,5 @@
 <h1 align="center">Hey! 👋, I'm Gaurav Tanwar</h1>
-<h3 align="center">I am an Enthusiastic Developer from India</h3>
+<h3 align="center">I am an Enthusiastic Developer|Programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravtanwar15&label=Profile%20views&color=0e75b6&style=flat" alt="gauravtanwar15" /> </p>
 
